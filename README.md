@@ -2,7 +2,7 @@
 
 This repository contains all EDS practical assignments.
 
-#👨‍🎓 Student Details
+##👨‍🎓 Student Details
 - **Name:** Ram Mahadev Pandhare 
 - **PRN Number:** 202501040071
 - **Course:** EDS
